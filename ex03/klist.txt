@@ -1,3 +1,6 @@
-    Name                Cache name                                 Expires
-* sejkim@42SEOUL.KR   API:0DE4E139-2703-43EF-8DC5-F5A671983274   Feb  2 00:52:44 2022
-  sejkim@42SEOUL.KR   API:8D934C8A-2AC3-49F1-9937-1D5F0138589D   Feb  1 23:38:56 2022
+Credentials cache: API:60FCDDC1-AE11-4C21-8443-E3565554EACF
+        Principal: sejkim@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb  2 13:35:09 2022  Feb  2 23:35:09 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
+Feb  2 13:35:10 2022  Feb  2 23:35:09 2022  HTTP/student-storage.42seoul.kr@42SEOUL.KR
